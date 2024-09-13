@@ -46,7 +46,7 @@ Before running the keylogger, you need to set the paths for your log and encrypt
 ### 1. Run the Program
 To start the program, execute the following command:
 ```bash
-python your_script.py
+python keylogger.py
 ```
 ### CLI Menu
 
